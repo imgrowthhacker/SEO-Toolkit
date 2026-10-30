@@ -1,0 +1,1 @@
+print('Robots checker placeholder')

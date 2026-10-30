@@ -1,0 +1,1 @@
+print('Sitemap checker placeholder')
